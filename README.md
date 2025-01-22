@@ -2,9 +2,18 @@
         <samp>&gt; Hey There!, I am
                 <b>Rain Lin</b>
         </samp>
-        I'm a frontend engineer based in Taipei, Taiwan 🇹🇼. 
+        
 </h3>
 
+
+<p align="center"> 
+  <samp>
+    <br>
+        I'm a frontend engineer based in Taipei, Taiwan 🇹🇼. 
+    <br>
+    <br>
+  </samp>
+</p>
 
 
 <p align="center">
@@ -23,21 +32,19 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Smallma?theme=wtf)
 
 
-## Things I Code width
-<p>
-  ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-61DBFB?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=61DBFB)
-  ![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![WCAG 2.2](https://img.shields.io/badge/WCAG2.2-007acc?style=for-the-badge&labelColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=MySQL&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-df4f1f?style=for-the-badge&logo=Ubuntu&logoColor=06B6D4&labelColor=df4f1f)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-</p>
 
+## Things I Code width
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Vue.js](https://img.shields.io/badge/Vue.js-61DBFB?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=61DBFB)
+![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WCAG 2.2](https://img.shields.io/badge/WCAG2.2-007acc?style=for-the-badge&labelColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=MySQL&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-df4f1f?style=for-the-badge&logo=Ubuntu&logoColor=06B6D4&labelColor=df4f1f)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
