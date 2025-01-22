@@ -1,12 +1,11 @@
-## Hi, nice to meet you 👋
-
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b>Rain Lin</b>
         </samp>
+        I'm a frontend engineer based in Taipei, Taiwan 🇹🇼. 
 </h3>
 
-I'm a frontend engineer based in Taipei, Taiwan 🇹🇼. 
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/rain-lin-8796b263/" target="_blank">
