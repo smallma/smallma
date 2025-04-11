@@ -16,35 +16,76 @@
 </p>
 
 
-<p align="center">
- <a href="https://www.linkedin.com/in/rain-lin-8796b263/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-</p>
 
-<br/>
+
 <hr/>
 <br/>
 
-![Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=smallma&show_icons=true&bg_color=0D1117&theme=radical)
-<a href="https://github.com/smallma"><img alt="Rain's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=smallma&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" border_radius='4.5'/></a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Smallma?theme=wtf)
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smallma&theme=2077)
 
 
+## Current State 🙌🙌
++ Located in Taipei, Taiwan
++ A Senior Frontend Engineer @ [ASUS](https://www.asus.com/), work as a Frontend Developer
 
-## Things I Code width
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Vue.js](https://img.shields.io/badge/Vue.js-61DBFB?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=61DBFB)
-![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&labelColor=black&logo=Python&logoColor=F0DB4F)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![WCAG 2.2](https://img.shields.io/badge/WCAG2.2-007acc?style=for-the-badge&labelColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4EA94B?style=for-the-badge&logo=MySQL&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-df4f1f?style=for-the-badge&logo=Ubuntu&logoColor=06B6D4&labelColor=df4f1f)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+## HomePage
++ [Rain Lin is Here](http://rainlin.github.io/)
+
+
+
+## My Skill Stack 💻
+<details>
+    <summary>
+        Frontend
+    </summary>
+
+|   |           |
+| ---------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   Lang  | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![PUG Badge](https://img.shields.io/badge/pug-a86454?style=for-the-badge&logo=pug&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Framework | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  |
+|     Style |  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)   ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white )                                                               |
+|     Animation | ![GSAP](https://img.shields.io/badge/GSAP-%23646CFF.svg?style=for-the-badge&logo=JavaScript&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)                                                                                                                                                                                                                  |
+|   Packing | ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Grunt](https://img.shields.io/badge/grunt-199900.svg?style=for-the-badge&logo=grunt&logoColor=white)                                                                                                                                                                                                                                                                                                                                    |
+
+    
+</details>
+
+
+<details>
+    <summary>Backend</summary>
+
+    
+|  |    |
+| ---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Lang |       ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![JavaScript](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=PHP&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Framework | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                                                                                                                                                                                                                                      |
+|  Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                   |
+|     Tools | ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)  ![StoryBook](https://img.shields.io/badge/-StoryBook-%233C5280?style=for-the-badge&logo=StoryBook&logoColor=white)                  ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
+
+</details>
+
+
+<details>
+    <summary>Design</summary>
+
+    
+|  |    |
+| ---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Tools |       ![Photoshop](https://img.shields.io/badge/Photoshop-FFD43B?style=for-the-badge&logo=Photoshop&logoColor=blue)  ![illustrator](https://img.shields.io/badge/illustrator-323330?style=for-the-badge&logo=adobe&logoColor=F7DF1E) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-007ACC?style=for-the-badge&logo=StableDiffusion&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Framework | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)                                                                                                                                                                                                                                      |
+|  Database | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                   |
+
+</details>
+
+<details>
+    <summary>Deployment</summary>
+
+|  |     |
+| ----------:|:------------------------------------------------------------------------------------------------------------------------------------- |
+|     Server | ![Apache](https://img.shields.io/badge/Apache-d53f34.svg?style=for-the-badge&logo=Apache&logoColor=white)  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)                             |
+|           Cloud | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)                    |
+|      CI/CD | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+|    Hosting | ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)                   |
+
+</details>
